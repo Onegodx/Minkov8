@@ -1,4 +1,4 @@
-// Миньков 22 исп 22 2-1 
+// Миньков 22 исп 22 2-1  вариант 15
 Console.WriteLine("Введите число n: ");
 double n = double.Parse(Console.ReadLine());
 Console.WriteLine("Введите число x: ");
